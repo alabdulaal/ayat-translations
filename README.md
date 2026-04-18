@@ -1,1 +1,1 @@
-# ayat-tiktok-redirect
+# ayat-translations
